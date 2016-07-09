@@ -1,3 +1,4 @@
+%%adding some comments to test githubs
 close all; clear all;
 theta0 = 27;  % TIR limit of waveguide
 m0 = tand(theta0);   %slope of a ray in global coordinates
